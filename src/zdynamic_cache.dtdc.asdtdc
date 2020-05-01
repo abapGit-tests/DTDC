@@ -1,7 +1,6 @@
-define dynamic cache zdynamic_cache on /dmo/booking
+define dynamic cache zdynamic_cache on tadir
 {
-  max( flight_price )
-
+  max( created_on )
 }
 //where where_condition
 //segregate cache data by filter_condition
