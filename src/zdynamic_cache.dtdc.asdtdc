@@ -1,0 +1,7 @@
+define dynamic cache zdynamic_cache on /dmo/booking
+{
+  max( flight_price )
+}
+//where where_condition
+//segregate cache data by filter_condition
+//creation configurable default off
