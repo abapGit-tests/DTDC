@@ -3,8 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>XSLT</CTEXT>
-    <PACKKIND>5</PACKKIND>
+    <CTEXT>DTDC - dynamic cache</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
