@@ -7,6 +7,7 @@
      <NAME>ZDYNAMIC_CACHE</NAME>
      <VERSION>active</VERSION>
      <DESCRIPTION>dynamic cache</DESCRIPTION>
+     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
     </METADATA>
    </DTDC>
   </asx:values>
